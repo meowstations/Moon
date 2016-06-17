@@ -1,6 +1,6 @@
 # Site
 title:              meowstations
-bio:                "Hi! I'm Silvia Gaetano, freelance social media manager and translator. I have a background in Computer Science and Transcultural Communication, and have completed an internship at the International Atomic Energy Agency, which included translation, proofreading, editing and quality assurance projects. I work from Spanish, French, Italian and German to English."
+bio:                "Hi! I'm Silvia Gaetano, a freelance Social Media Manager and Translator. /n I have a background in Computer Science and Transcultural Communication, and have completed an internship at the International Atomic Energy Agency, which included translation, proofreading, editing and quality assurance projects. /n I work from Spanish, French, Italian and German to English."
 description:        "Multipotentialite with a passion for Technology, Languages, Social Media and Video Games."
 reading_time:       true
 words_per_minute:   200
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            meowstations
-#facebook:          username
+facebook:           meowstations
 github:             meowstations
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           SilviaGaetano
