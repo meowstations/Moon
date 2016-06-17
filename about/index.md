@@ -5,8 +5,6 @@ tags: [about, language, translation, social media, community management, proofre
 date: 2016-06-17
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Background
 I am currently on the TEDxVienna and VRVienna social media teams and have experience independently managing the Games Austria and Central European Games Conference (CEGC) channels.
