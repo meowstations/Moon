@@ -1,6 +1,6 @@
 # Site
 title:              meowstations
-bio:                "Hi! I'm Silvia Gaetano, a freelance Social Media Manager and Translator with a background in Computer Science and Transcultural Communication. Please feel free to have a look at my projects and contact me at the channels below, should you require services in Social Media Management, Community Management, Translation and Editing."
+bio:                "Hi! I'm Silvia Gaetano, a freelance Social Media Manager and Translator with a background in Computer Science and Transcultural Communication. Please feel free to have a look at my projects and contact me at the channels below.
 description:        "Multipotentialite with a passion for Technology, Languages, Social Media and Video Games."
 reading_time:       true
 words_per_minute:   200
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            meowstations
 facebook:           meowstations
-github:             meowstations
+#github:            meowstations
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           SilviaGaetano
 #xing:              username
