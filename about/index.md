@@ -7,17 +7,22 @@ comments: false
 ---
 
 ## Background
-I am currently on the TEDxVienna and VRVienna social media teams and have experience independently managing the Games Austria and Central European Games Conference (CEGC) channels.
+Originally born in Italy and lived in France, Austria, Scotland and China. I have an educational background in Computer Science and Transcultural Communication, two disciplines that allow me to form the bond between the science and language fields.
 
-I recently completed an internship at the International Atomic Energy Agency (IAEA), which included translation, proofreading, editing and quality assurance projects.
+I am currently on the TEDxVienna and VRVienna social media teams and have experience independently managing the Games Austria and Central European Games Conference (CEGC) channels. In addition, I give advice to various organisations on their social media strategy and can often be found livetweeting at conferences, either through my personal channels or the official conference channels.
+
+Having recently completed an internship at the International Atomic Energy Agency (IAEA), I have acquired further experience in translation, proofreading, editing and quality assurance.
+
+Below, you can find a range of services that I offer. Feel free to contact me if you have any questions!
 
 ## Language Services
-- Translation language combinations: Spanish, French, Italian and German to English.
+- Translation. Language combinations: Spanish, French, Italian and German to English.
 - Proofreading and Editing: English (UK) and English (US)
-- Specialisations: Video Games, Natural Sciences, Medicine, Nuclear Knowledge, E-Learning material. 
+- Specialisations (topics): Video Games, IT, Medicine, Nuclear Knowledge
+- Specialisations (document types): Websites, E-Learning courses and supporting material, Technical documentations, Dissertations and Research Publications.
 
-## Social Media Services
+## Digital Marketing Services
 - Social Media Management
 - Community Management
-- Customer Service
+- Online Customer Service
 - Social Media Marketing
