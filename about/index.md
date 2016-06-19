@@ -7,11 +7,11 @@ comments: false
 ---
 
 ## Background
-Originally born in Italy and lived in France, Austria, Scotland and China. I have an educational background in Computer Science and Transcultural Communication, two disciplines that allow me to form the bond between the science and language fields.
+Originally born in Italy and lived in France, Austria, Scotland and China. I have an educational background in Computer Science and Transcultural Communication.
 
-I am currently on the TEDxVienna and VRVienna social media teams and have experience independently managing the Games Austria and Central European Games Conference (CEGC) channels. In addition, I give advice to various organisations on their social media strategy and can often be found livetweeting at conferences, either through my personal channels or the official conference channels.
+I am currently on the TEDxVienna and VRVienna social media teams and have experience independently managing the <a href="www.twitter.com/GamesAustria">Games Austria</a> and <a href="www.twitter.com/CEGConf">Central European Games Conference (CEGC)</a> channels. In addition, I give advice to various organisations on their social media strategy and can often be found livetweeting at conferences, either through my personal channels or the official conference channels.
 
-Having recently completed an internship at the International Atomic Energy Agency (IAEA), I have acquired further experience in translation, proofreading, editing and quality assurance.
+Having recently completed a one year internship at the <a href="www.iaea.org">International Atomic Energy Agency (IAEA)</a>, I have acquired further experience in translation, proofreading, editing and quality assurance.
 
 Below, you can find a range of services that I offer. Feel free to contact me if you have any questions!
 
