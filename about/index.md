@@ -15,4 +15,4 @@ During my time at university, I learned to hone my copywriting and translation s
 
 Having recently completed a one year internship at the <a href="http://www.iaea.org" target="_blank">International Atomic Energy Agency (IAEA)</a>, I have acquired further experience in translation, proofreading, editing and quality assurance. My main working languages during that period were Spanish and English.
 
-If you'd like to see what range of services I offer, please click <a href="{{ site.url }}/services">here</a>. Feel free to also have a look at my <a href "{{ site.url }}/projects">previous work</a>.
+If you'd like to see what range of services I offer, please click <a href="{{ site.url }}/services">here</a>. Feel free to also have a look at my <a href="{{ site.url }}/projects">previous work</a>.
