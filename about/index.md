@@ -14,15 +14,3 @@ I am currently on the TEDxVienna and VRVienna social media teams and have experi
 Having recently completed a one year internship at the <a href="http://www.iaea.org">International Atomic Energy Agency (IAEA)</a>, I have acquired further experience in translation, proofreading, editing and quality assurance.
 
 If you'd like to see what range of services I offer, please click <a href="{{ site.url }}/services">here</a> or on the "services" tab.
-
-## Language Services
-- Translation. Language combinations: Spanish, French, Italian and German to English.
-- Proofreading and Editing: English (UK) and English (US)
-- Specialisations (topics): Video Games, IT, Medicine, Nuclear Knowledge
-- Specialisations (document types): Websites, E-Learning courses and supporting material, Technical documentations, Dissertations and Research Publications.
-
-## Digital Marketing Services
-- Social Media Management
-- Community Management
-- Online Customer Service
-- Social Media Marketing
