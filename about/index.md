@@ -13,4 +13,4 @@ I am currently on the TEDxVienna and VRVienna social media teams and have experi
 
 Having recently completed a one year internship at the <a href="http://www.iaea.org">International Atomic Energy Agency (IAEA)</a>, I have acquired further experience in translation, proofreading, editing and quality assurance.
 
-If you'd like to see what range of services I offer, please click <a href="{{ site.url }}/services">here</a> or on the "services" tab.
+If you'd like to see what range of services I offer, please click <a href="{{ site.url }}/services" class="btn btn-success">here</a> or on the "services" tab.
