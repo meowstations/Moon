@@ -4,7 +4,7 @@ bio:                "Hi! I'm Silvia Gaetano, a freelance Social Media Manager an
 description:        "Multipotentialite with a passion for Technology, Languages, Social Media and Video Games."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/silviagaetano.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
